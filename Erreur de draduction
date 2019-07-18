@@ -1,1 +1,43 @@
-A la fin de l'installation  ya , il a des erreur de traduction
+Bonjour,
+Dans la version 3.05.XX , à la fin de l'instalation,il y a des erreurs de traduction .
+""....Extracting "3.05.011translations.7z"
+L'op‚ration a r‚ussi.
+
+
+L'op‚ration a r‚ussi.
+
+
+L'op‚ration a r‚ussi.
+
+
+L'op‚ration a r‚ussi.
+
+
+L'op‚ration a r‚ussi.
+
+
+L'op‚ration a r‚ussi.
+
+
+L'op‚ration a r‚ussi.
+
+
+L'op‚ration a r‚ussi.
+
+
+L'op‚ration a r‚ussi.
+
+
+L'op‚ration a r‚ussi.
+
+
+L'op‚ration a r‚ussi.
+
+
+Done
+Écriture de l'Outil de Maintenance.
+
+Installation terminée !"""
+
+Je suppose que c'est un bug d'encodage UTF  8 (?) les carractéres "é" sont remplacer par une ","
+L'éditeur de text notepad++ permet de respecter l'encodage des fichiers, en particulier "l'UTF 8 sans Boum" ,l'or des éditions/modifications de texts.
